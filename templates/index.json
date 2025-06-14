@@ -97,7 +97,7 @@
         "recommended_mode_intent": "related",
         "header_title": "Featured Products",
         "header_title_font_size": "h3",
-        "header_description": "<p>They just smell amazing.</p>",
+        "header_description": "<p>They all just smell amazing.</p>",
         "header_description_font_size": "fs-md",
         "slider_speed": 300,
         "slider_navigation": true,
